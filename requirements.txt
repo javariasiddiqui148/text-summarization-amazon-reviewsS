@@ -1,0 +1,12 @@
+streamlit
+torch
+transformers
+sentencepiece
+pandas
+numpy
+sumy
+rouge
+scikit-learn
+matplotlib
+seaborn
+kagglehub
